@@ -34,11 +34,6 @@ Abe lincoln once said to plutarch:
 >We're living in the future so the present
 >is most certainly our past.
 
-#### Here is a task list
-
-[] @mentions: task 1
-[x] task 2
-
 to which he responded:
 
 > please click on this [link](https://google.com)
@@ -63,6 +58,10 @@ and some more,
 myFun[#]&/@Transpose[{list1, list2}];
 ```
 
+#### Here is a task list
+
+- [] @mentions: task 1
+- [x] task 2
 
 
 
