@@ -68,3 +68,4 @@ myFun[#]&/@Transpose[{list1, list2}];
 #### Table with strikethroughts
 
 First Header | Second Header | Third Header
+-------------|---------------|--------------
