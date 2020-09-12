@@ -69,3 +69,4 @@ myFun[#]&/@Transpose[{list1, list2}];
 
 First Header | Second Header | Third Header
 -------------|---------------|--------------
+~~take 1~~ | task 2 | ~~__task3__~~ is here
