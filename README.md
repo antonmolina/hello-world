@@ -37,3 +37,21 @@ Abe lincoln once said to plutarch:
 to which he responded:
 
 > please click on this [link](https://google.com)
+
+#### Here is some code snippets
+'''
+# python code
+
+def python function(arg):
+    print(arg)
+'''
+and some more,
+'''
+(*mathematica*)
+
+myFun[#]&/@Transpose[{list1, list2}];
+'''
+
+
+
+
