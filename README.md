@@ -24,4 +24,16 @@ here is another way to do lists
 ### This is a level 3 header
 
 http://github.com - automatic!
+
 [GitHub](http://github.com)
+
+# Here is where we add nice quotes
+
+Abe lincoln once said to plutarch:
+
+>We're living in the future so the present
+>is most certainly our past.
+
+to which he responded:
+
+> please click on this [link](https://google.com)
