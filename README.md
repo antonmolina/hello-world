@@ -65,4 +65,6 @@ myFun[#]&/@Transpose[{list1, list2}];
 - [ ] task 3 incomplete
 
 
+#### Table with strikethroughts
 
+First Header | Second Header | Third Header
