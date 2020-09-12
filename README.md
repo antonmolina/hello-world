@@ -60,8 +60,9 @@ myFun[#]&/@Transpose[{list1, list2}];
 
 #### Here is a task list
 
-- [] @mentions: task 1
+- [ ] @mentions: task 1 incomplete
 - [x] task 2
+- [ ] task 3 incomplete
 
 
 
